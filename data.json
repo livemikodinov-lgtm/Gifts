@@ -1,28 +1,6 @@
 {
  "gifts": [
   {
-   "id": "g1",
-   "theme": "Бумажный",
-   "emoji": "📜",
-   "kind": "открытка",
-   "idea": "",
-   "progress": 40,
-   "hours": 3,
-   "fails": 1,
-   "last": ""
-  },
-  {
-   "id": "g2",
-   "theme": "Рукодельный",
-   "emoji": "🧶",
-   "kind": "",
-   "idea": "",
-   "progress": 96,
-   "hours": 5.5,
-   "fails": 0,
-   "last": "2026-10-18"
-  },
-  {
    "id": "gmvfmin09",
    "theme": "Бумажный",
    "emoji": "",
@@ -33,6 +11,17 @@
    "fails": 0,
    "last": "2026-10-19",
    "img": "img/ggmvfmin09-mvfmzsd8.jpg"
+  },
+  {
+   "id": "gmvfn2n2w",
+   "theme": "Бумажный",
+   "emoji": "☺️",
+   "kind": "Не скажу",
+   "idea": "Сам придумал",
+   "progress": 5,
+   "hours": 1.5,
+   "fails": 0,
+   "last": "2026-10-19"
   }
  ],
  "ideas": []
